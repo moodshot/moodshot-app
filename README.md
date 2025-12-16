@@ -34,3 +34,12 @@ lib/
  │   └─ editable_text.dart
  └─ utils/
      └─ font_manager.dart
+## Description
+
+MoodShot is a global-ready mobile application that allows users to select a photo, 
+add ready-made quotes or write custom text in multiple languages, 
+customize fonts, colors, and layout, and instantly share the final image 
+on social media platforms like WhatsApp, Instagram, and Facebook.
+
+The app supports Urdu, Arabic, Hindi, and English with proper text direction 
+and beautiful font rendering.
